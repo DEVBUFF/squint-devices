@@ -1,0 +1,13 @@
+{
+  "name": "squint-devices",
+  "version": "0.1.0",
+  "description": "Device tools for the Squint art director: a Chrome browser MCP (screenshots, device and dark-mode emulation, Lighthouse accessibility audits) and a mobile MCP (iOS Simulator and Android emulator screenshots, taps and flows).",
+  "author": {
+    "name": "Igor Ryazancev",
+    "url": "https://github.com/DEVBUFF"
+  },
+  "homepage": "https://github.com/DEVBUFF/squint-devices",
+  "repository": "https://github.com/DEVBUFF/squint-devices",
+  "license": "MIT",
+  "keywords": ["squint", "design", "screenshots", "ios-simulator", "android-emulator", "chrome-devtools", "accessibility"]
+}
